@@ -1,0 +1,383 @@
+/* hero-section */
+.hero-logo{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    right: 150px;
+    padding: 20px;
+    font-size: 28px;
+    color: #0D1321;
+}
+
+.hero-btn{
+    font-family: "Azeret Mono", monospace;
+    text-decoration: none;
+    border-radius: 8px;
+    color: black;
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid #0D1321;
+    cursor: pointer;
+}
+
+nav{
+    font-family: "Azeret Mono", monospace;
+    display: flex;
+    align-items: center;
+    margin-bottom: 36px;
+    margin-left: 150px;
+    margin-right: 151px;
+    justify-content: space-between;
+}
+
+.hero-images {
+    background-image: url(../assets/Hero-bg.png);
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 74px;
+}
+
+.hero-image-1 {
+    width: 250px;
+    margin-bottom: 20px;
+    padding-bottom: -26px;
+}
+
+.hero-title{
+    font-family: "Azeret Mono", monospace;
+    font-size: 55px;
+    padding-top: 32px;
+    line-height: 68px;
+    color: #0D1321;
+}
+
+.hero-description{
+    font-family: "Azeret Mono", monospace;
+    max-width: 890px;
+    font-size: 16px;
+    padding: 24px 32px;
+    color: #0D1321;
+}
+
+.hero-btn-1{
+    font-family: "Azeret Mono", monospace;
+    text-decoration: none;
+    border-radius: 8px;
+    background-color: #0D1321;
+    color: white;
+    padding: 21px 21px 24px 24px;
+    border: none;
+    cursor: pointer;
+    margin: 32px 45px;
+    margin-left: 221px;
+    margin-right: 221px;
+}
+
+/* section-two-styles*/
+.section-two{
+    font-family: "Azeret Mono", monospace;
+    background-color: rgba(13, 19, 33, 0.02);
+    padding: 80px 80px 97px 97px;
+    margin-left: 148px;
+    margin-right: 152px;
+    margin-bottom: 90px;
+    border-radius: 16px;
+}
+
+.section-title{
+    font-family: "Azeret Mono", monospace;
+    margin: 0 auto;
+    max-width: max-content;
+    font-size: 32px;
+    margin-bottom: 24px;
+    color: #0D1321;
+    margin-top: 90px;
+}
+
+.section-description{
+    font-family: "Azeret Mono", monospace;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 48px;
+    color: #0D1321;
+}
+
+/* section-1 styles*/
+.section-1{
+    font-family: "Azeret Mono", monospace;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    display: flex;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+
+.section-inportant{
+    font-family: "Azeret Mono", monospace;
+    background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);;
+    display: flex;
+    border-radius: 16px;
+    margin-bottom: 32px;
+}
+
+.section-title-1{
+    font-family: "Azeret Mono", monospace;
+    padding: 48px;
+    color: #0D1321;
+    font-size: 24px;
+    padding-bottom: 1px;
+}
+
+.section-description-1{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    color: #0D1321;
+    padding-bottom: 32px;
+    padding-left: 48px;
+}
+
+.img-2{
+    font-family: "Azeret Mono", monospace;
+    margin-left: 40px;
+    padding-right: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+
+.section-btn{
+    font-family: "Azeret Mono", monospace;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    background-color: white;
+    border: 1px solid #0D1321;
+    cursor: pointer;
+    margin-left: 48px;
+}
+
+.video{
+    display: inline-block;
+    padding: 5px;
+    background: #fff;
+    outline: 1px solid rgba(13, 19, 33, 0.2);
+    outline-offset: 15px;
+    border-radius: 16px;
+}
+
+.siam-gu-khai{
+    max-width: fit-content;
+    margin: 0 auto;
+    margin-bottom: 151px;
+}
+ 
+/* box-section-styles */
+.center{
+    margin: 0 auto;
+    max-width: max-content;
+}
+
+.flex{
+    display: flex;
+}
+
+.box-1{
+    background-color: rgba(255, 76, 30, 0.05);
+    padding: 20px;
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    margin-left: 50px;
+    margin-right: 24px;
+    margin-bottom: 10px;
+}
+
+.pichku-image{
+    width: 56px;
+    height: 56px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 4px;
+    padding-right: 268px;
+}
+
+.html{
+    font-family: "Azeret Mono", monospace;
+    font-size: 24px;
+    color: #0D1321;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 4px;
+    padding-bottom: 8px;
+}
+
+.description{
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+    padding-left: 20px;
+    padding-top: 8px;
+    padding-right: 20px;
+    padding-bottom: 4px;
+}
+
+.learn{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    color: #0D1321;
+    padding-left: 20px;
+    padding-top: 4px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+.box-2{
+    background-color: rgba(0, 76, 232, 0.05);
+    padding: 20px;
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    margin-right: 24px;
+    margin-bottom: 10px;
+}
+
+.box-3{
+    background-color: rgba(255, 223, 0, 0.05);
+    padding: 20px;
+    border-radius: 16px;
+    width: 364px;
+    height: 299px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+}
+
+.boxes{
+    size: 20px;
+}
+
+/* next-section-styles */
+body {
+  background: #f5f5f5;
+  font-family: "Azeret Mono", monospace;
+}
+
+.next-card{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    padding: 40px;
+    border-radius: 16px;
+    margin-top: 48px;
+    margin-bottom: 50px;
+}
+
+.next-cards{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.next-card-subtitle{
+    color: #0D1321;
+    max-width: 941.22px;
+    line-height: 26px;
+}
+
+
+.next-card-title{
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+}
+
+/* next-version-siam-pagol-mari */
+.siam-pant-vore-mutu-kore{
+    background-image: url(../assets/handshake.jpg);
+    padding-left: 228px;
+    padding-right: 228px;
+    background-size: cover;
+    display: block;
+    align-content: center;
+    background-position: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 16px;
+    margin-bottom: 80px;
+}
+.siam-pagol-mari{
+    font-family: "Azeret Mono", monospace;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+    max-width: max-content;
+    margin: 0 auto;
+}
+
+.siam-vai-mathe-hage{
+    font-family: "Azeret Mono", monospace;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 1);
+    max-width: max-content;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.color-white{
+    color: #FFFFFF;
+}
+
+.siam-pad-mare{
+    font-family: "Azeret Mono", monospace;
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 10px;
+    border-radius: 8px;
+    padding: 19px 19px 20px;
+    border: none;
+    margin-right: 16px;
+}
+
+.siam-btn{
+    font-family: "Azeret Mono", monospace;
+    background-color: #FFFFFF;
+    width: 120px;
+    height: 50px;
+    border: none;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-left: 16px;
+}
+
+/* finish */
+.hossain{
+    font-family: "Azeret Mono", monospace;
+    display: flex;
+    background-color: rgba(13, 19, 33, 0.03);
+    justify-content: space-evenly;
+}
+
+.awlad{
+    font-family: "Azeret Mono", monospace;
+    color: #0D1321;
+    font-weight: 600;
+}
+
+.fgl{
+    cursor: pointer;
+    padding-top: 10px;
+    width: 36px;
+    height: 36px;
+    display: flex;
+}
+
+#f{
+    padding-right: 24px;
+}
+
+#g{
+    padding-right: 24px;
+}
